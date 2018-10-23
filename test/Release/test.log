@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp__UpdateWindow@4
+main.obj : error LNK2001: 无法解析的外部符号 __imp__RegisterClassExA@4
+main.obj : error LNK2001: 无法解析的外部符号 __imp__PostQuitMessage@4
+main.obj : error LNK2001: 无法解析的外部符号 __imp__GetDlgItem@8
+main.obj : error LNK2001: 无法解析的外部符号 __imp__TranslateMessage@4
+main.obj : error LNK2001: 无法解析的外部符号 __imp__CreateWindowExA@48
+main.obj : error LNK2001: 无法解析的外部符号 __imp__DefWindowProcA@16
+main.obj : error LNK2001: 无法解析的外部符号 __imp__MessageBoxA@16
+main.obj : error LNK2001: 无法解析的外部符号 __imp__GetWindowTextA@12
+main.obj : error LNK2001: 无法解析的外部符号 __imp__ShowWindow@8
+main.obj : error LNK2001: 无法解析的外部符号 __imp__DispatchMessageA@4
+main.obj : error LNK2001: 无法解析的外部符号 __imp__GetMessageA@16
+D:\c代码\shellCode\Release\test.exe : fatal error LNK1120: 12 个无法解析的外部命令

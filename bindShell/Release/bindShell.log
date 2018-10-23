@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(119): warning C4102: “ws2_32_dll_”: 未引用的标签
+main.cpp(131): warning C4102: “cmd_exe_”: 未引用的标签
+main.cpp(185): warning C4102: “payLoad_”: 未引用的标签
+  正在生成代码
+d:\c代码\shellcode\bindshell\main.cpp(268): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+d:\c代码\shellcode\bindshell\main.cpp(308): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+d:\c代码\shellcode\bindshell\main.cpp(312): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+d:\c代码\shellcode\bindshell\main.cpp(335): warning C4731: “main”: 框架指针寄存器“ebp”被内联程序集代码修改
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  bindShell.vcxproj -> D:\c代码\shellCode\Release\bindShell.exe
+  bindShell.vcxproj -> D:\c代码\shellCode\Release\bindShell.pdb (Full PDB)

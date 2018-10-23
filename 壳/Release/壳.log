@@ -1,0 +1,9 @@
+﻿  正在生成代码
+  0 of 22 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+aPlib.lib(aplib.obj) : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+aPlib.lib(spack.obj) : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+aPlib.lib(crc32.obj) : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+D:\c代码\shellCode\Release\壳.exe : fatal error LNK1281: 无法生成 SAFESEH 映像。

@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  packDll.cpp
+    正在创建库 D:\c代码\shellCode\Release\packDll.lib 和对象 D:\c代码\shellCode\Release\packDll.exp
+  正在生成代码
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+aPlib.lib(sdepack.obj) : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+aPlib.lib(depacks.obj) : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+aPlib.lib(crc32.obj) : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+D:\c代码\shellCode\Release\packDll.dll : fatal error LNK1281: 无法生成 SAFESEH 映像。
